@@ -8,7 +8,7 @@ include '../layout/layout_recruiter.php';
 <!-- Recruiter-specific content -->
 <div class="row">
   <div class="col-md-6">
-    <a href="post-job.php" class="btn btn-primary mb-3">Post New Job</a>
+    <a href="recruiter/post-job.php" class="btn btn-primary mb-3">Post New Job</a>
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Active Jobs</h5>
